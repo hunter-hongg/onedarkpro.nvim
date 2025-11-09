@@ -1,6 +1,6 @@
 # olimorris/onedarkpro.nvim的一个分支
 ## 概述
-- **主要修改**配色等方面内容，不改动
+- **主要修改**配色等方面内容，不改动许可证等方面
 # 以下是原olimorris/onedarkpro.nvim的内容
 <!-- panvimdoc-ignore-start -->
 
