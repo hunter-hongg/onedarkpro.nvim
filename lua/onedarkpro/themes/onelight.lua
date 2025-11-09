@@ -11,6 +11,7 @@ local default_colors = {
 	yellow = "#eea825",
 	green = "#15990a",
 	cyan = "#56b6c2",
+	cyan_dark = "#45a2b3",
 	blue = "#118dc3",
 	purple = "#9a77cf",
 	white = "#fafafa",
