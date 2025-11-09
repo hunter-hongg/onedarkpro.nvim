@@ -1,4 +1,4 @@
-# olimorris/onedarkpro.nvim的一个分支
+# olimorris/onedarkpro.nvim的一个fork
 ## 概述
 - **主要修改**配色等方面内容，不改动许可证等方面
 ## 安装方法
