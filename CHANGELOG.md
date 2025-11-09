@@ -1,3 +1,4 @@
+# 以下是olimorris/onedarkpro.nvim的内容
 # Changelog
 
 ## [2.22.0](https://github.com/olimorris/onedarkpro.nvim/compare/v2.21.0...v2.22.0) (2025-09-30)
