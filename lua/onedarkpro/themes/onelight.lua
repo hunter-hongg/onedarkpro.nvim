@@ -6,7 +6,7 @@ local meta = {
 local default_colors = {
 	bg = "#dadada",
 	fg = "#775511",
-	red = "#e05661",
+	red = "#e03631",
 	orange = "#ee9025",
 	yellow = "#eea825",
 	green = "#15990a",
@@ -54,7 +54,7 @@ local function generate(colors)
 		diff_text = colors.diff_text or "#a6d0d8",
 
 		-- Lualine colors
-		bg_statusline = colors.bg_statusline or color.darken(colors.bg, 2.6),
+		bg_statusline = "#303010",
 		fg_gutter = colors.fg_gutter or color.darken(colors.bg, 9.7),
 		fg_gutter_inactive = colors.fg_gutter_inactive or colors.fg,
 
