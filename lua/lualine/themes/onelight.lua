@@ -4,7 +4,7 @@ local config = require("onedarkpro.config")
 local onedarkpro = {}
 
 onedarkpro.normal = {
-	a = { bg = colors.purple, fg = colors.fg },
+	a = { bg = colors.purple, fg = colors.bg },
 	b = { bg = colors.fg_gutter, fg = colors.purple },
 	c = { bg = config.options.lualine_transparency and colors.none or colors.bg_statusline, fg = colors.fg },
 }
@@ -15,8 +15,8 @@ onedarkpro.insert = {
 }
 
 onedarkpro.command = {
-	a = { bg = colors.green, fg = colors.bg },
-	b = { bg = colors.fg_gutter, fg = colors.green },
+	a = { bg = colors.cyan, fg = colors.bg },
+	b = { bg = colors.fg_gutter, fg = colors.cyan },
 }
 
 onedarkpro.visual = {

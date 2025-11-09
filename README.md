@@ -10,6 +10,13 @@
 ```vim 
 Plug 'hunter-hongg/onedarkpro.nvim'
 ```
+- **Neovim原生插件示例**
+```bash 
+mkdir -p ~/.local/share/nvim/site/pack/onedarkpro/start
+git clone https://github.com/hunter-hongg/onedarkpro.nvim ~/.local/share/nvim/site/pack/onedarkpro/start/onedarkpro.nvim 
+# 或
+gh repo clone https://github.com/hunter-hongg/onedarkpro.nvim ~/.local/share/nvim/site/pack/onedarkpro/start/onedarkpro.nvim 
+```
 
 
 # 以下是原olimorris/onedarkpro.nvim的内容
