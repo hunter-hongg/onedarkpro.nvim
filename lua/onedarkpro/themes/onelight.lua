@@ -56,7 +56,7 @@ local function generate(colors)
 		-- Lualine colors
 		bg_statusline = "#cccccc",
 		fg_gutter = colors.fg_gutter or color.darken(colors.bg, 9.7),
-		fg_gutter_inactive = "#cacaca",
+		fg_gutter_inactive = colors.fg,
 
 		-- Virtual text
 		virtual_text_error = colors.virtual_text_error or color.lighten(colors.red, 15),
