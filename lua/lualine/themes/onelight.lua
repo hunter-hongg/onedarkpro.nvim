@@ -25,7 +25,7 @@ onedarkpro.visual = {
 }
 
 onedarkpro.replace = {
-	a = { bg = colors.blue, fg = colors.bg },
+	a = { bg = colors.blue, fg = colors.fg },
 	b = { bg = colors.fg_gutter, fg = colors.blue },
 }
 
