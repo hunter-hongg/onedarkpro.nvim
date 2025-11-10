@@ -17,6 +17,8 @@ git clone https://github.com/hunter-hongg/onedarkpro.nvim ~/.local/share/nvim/si
 # 或
 gh repo clone https://github.com/hunter-hongg/onedarkpro.nvim ~/.local/share/nvim/site/pack/onedarkpro/start/onedarkpro.nvim 
 ```
+## 许可证
+- **原许可证见LICENSE-olimorris**
 
 
 # 以下是原olimorris/onedarkpro.nvim的内容
