@@ -20,12 +20,12 @@ onedarkpro.command = {
 }
 
 onedarkpro.visual = {
-	a = { bg = colors.yellow, fg = colors.bg },
-	b = { bg = colors.fg_gutter, fg = colors.yellow },
+	a = { bg = colors.green, fg = colors.bg },
+	b = { bg = colors.fg_gutter, fg = colors.green },
 }
 
 onedarkpro.replace = {
-	a = { bg = colors.blue, fg = colors.fg },
+	a = { bg = colors.blue, fg = colors.bg },
 	b = { bg = colors.fg_gutter, fg = colors.blue },
 }
 
