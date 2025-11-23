@@ -10,7 +10,7 @@ onedarkpro.normal = {
 }
 
 onedarkpro.insert = {
-	a = { bg = colors.orange, fg = colors.fg },
+	a = { bg = colors.orange, fg = colors.bg },
 	b = { bg = colors.fg_gutter, fg = colors.orange },
 }
 
